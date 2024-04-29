@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(27, 26, 29);
+    color: black;
+}
+.container{
+    margin: 170px;
+    background-color: blanchedalmond;
+    text-align: center;
+    font-size: 60px;
+
+
+}
+#number{
+    font-weight: bold;
+}
+#btn-1{
+    padding: 0 170px;
+    height: 35px;
+    margin: 20px;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: brown;
+    color: blanchedalmond;
+    border-radius: 45px;
+    font-family: 'Courier New', Courier, sans-serif;
+    cursor: pointer;
+}
+#clear{
+    padding: 0 170px;
+    height: 35px;
+    margin: 20px;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: red;
+    color: black;
+    border-radius: 45px;
+    font-family: 'Courier New', Courier, sans-serif;
+    cursor: pointer;
+
+}
